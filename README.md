@@ -139,9 +139,3 @@ SalesforceMetadataProvider retrieves supported metadata information.
 The service analyzes metadata for field references.
 Matching references are returned to the LWC.
 The results are displayed to the user.
-
-
-Save the file. Then stage **only the README**:
-
-```powershell
-git add README.md
