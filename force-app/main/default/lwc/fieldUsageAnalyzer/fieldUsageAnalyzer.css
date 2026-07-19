@@ -1,0 +1,7 @@
+.spinner-container {
+    min-height: 6rem;
+}
+
+lightning-datatable {
+    width: 100%;
+}
